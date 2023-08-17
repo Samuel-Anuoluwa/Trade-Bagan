@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: #fff;
+}
+
+.info{
+   margin-left: 1%;
+   margin-top: 2%;
+   cursor: pointer;
+}
+
+.info .logo{
+    width: 70px;
+    height: 70px;
+    margin-left: 2px;
+    border-radius: 100px;
+}
+
+.info h1{
+    margin-left: 8%;
+    margin-top: -5%;
+}
+
+ul{
+    margin-top: -3.2%;
+    margin-left: 22%;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 15px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+hr {
+    border-left: solid 2px gray;
+    position: absolute;
+    height: 50px;
+    border-right: 0;
+    margin-left: 22%;
+    margin-top: -4.5%;
+}
+
+.Sign{
+   margin-left: 730px;
+   margin-top: -3%;
+   justify-content: space-between;
+}
+
+.Sign .img{
+    width: 80px;
+    height: 50px;
+    margin-top: -6%;
+    margin-left: 20px;
+    background-color: yellow;
+    border: none;
+    cursor: pointer;
+}
+
+.Sign .login{
+    width: 80px;
+    height: 50px;
+    margin-top: -6%;
+    border: none;
+    color: #fff;
+    background-color: black;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.trade{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.trade h1{
+    font-size: 50px;
+}
+
+.trade p{
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.smart .solution{
+    width: 80px;
+    height: 50px;
+    border: none;
+    margin-top: 15px;
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.smart a{
+    text-decoration: none;
+    color: #000;
+    margin-left: 50px;
+}
+
+.clay{
+   width: 240px;
+   height: 300px;
+   margin-left: 520px;
+   margin-top: -200%;
+   margin-top: 10px;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+.istockphoto{
+    width: 240px;
+    margin-left: 520px;
+    margin-top: -700px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.images {
+    margin-top: -300px;
+}
+
+.istockphoto2{
+    width: 240px;
+    height: 160px;
+    margin-left: 770.5px;
+    margin-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.john{
+    width: 240px;
+    height: 300px;
+    margin-left: 770.5px;
+    margin-top: -2700px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+#id {
+    margin-top: -191px;
+}
